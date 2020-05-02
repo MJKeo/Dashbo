@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#003d70</color>
+    <color name="colorPromary">#d9d8d8</color>
+    <color name="daily">#80849f</color>
+    <color name="goals">#336ca1</color>
+    <color name="reminders">#58568b</color>
+    <color name="background">#002f56</color>
+    <color name="colorPrimaryDark">#002057</color>
+    <color name="colorAccent">#70748c</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="special">#8d92af</color>
+</resources>
